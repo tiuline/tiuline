@@ -1,9 +1,9 @@
 <h1 align="center">Hello there!</h1>
 <h3 align="center">Meet the Jedi</h3>
 
-- 🔭 I’m currently working on **LifeHealth**
+- 🔭 I’m currently working with **Telemedicine** systems using **.Net**
 
-- ⚡ Fun fact **My pull requests don't come to github .-.**
+- ⚡ Fun fact **My pull requests are not always show in github .-.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
