@@ -1,7 +1,7 @@
 <h1 align="center">Hello there!</h1>
 <h3 align="center">Meet the Jedi</h3>
 
-- 🔭 I’m currently working with **Telemedicine** systems using **.Net**
+- 🔭 I’m currently looking for **Back-End/Full-Stack** jobs using **.Net**
 
 - ⚡ Fun fact **My pull requests are not always show in github .-.**
 
